@@ -3,5 +3,5 @@ set number
 set tabstop=4
 set shiftwidth=4
 set expandtab
-seet autoindent
+set autoindent
 syntax on
